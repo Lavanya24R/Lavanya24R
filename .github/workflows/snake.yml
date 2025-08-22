@@ -18,6 +18,13 @@ jobs:
           github_user_name: Lavanya24R
           outputs: |
             dist/snake.svg
+            dist/snake.gif
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Add black background
+        run: |
+          npx svgexport dist/snake.svg dist/snake_black.svg 1000:300 --background black
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v2
