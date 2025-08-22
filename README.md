@@ -1,6 +1,6 @@
 <!-- Title -->
 <h1 align="center">Hi there, I'm Lavanya 👋</h1>
-<h3 align="center">🚀 Developer • 🎮 Songner(Song + Listner) • 🌱 Learner</h3>
+<h3 align="center">🚀 Developer • 🎮 Songnerd(Song Listening nerd) • 🌱 Learner</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,15 +27,6 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Cocos2d-x-1d1d1d?style=for-the-badge&logo=cocos&logoColor=61DAFB"/>  
 </p>
-
----
-
-## 🎯 Featured Projects
-🌟 **[Bomberman](#)** → Classic game rebuilt with Cocos2d-x 🎮 
-
-🧩 **[Pixel Place](#)** → Purble Place but in Pixels 🎨
-
-🤖 **[Disbyebility](#)** → Say bye to disability when online ⚡  
 
 ---
 
@@ -54,9 +45,9 @@
 ---
 
 ## 📫 Let’s Connect!
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/lavanya-rastogi-a39b10320/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:rastogi.lavanya24@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Lavanya24R"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://portfolio-theta-henna-78.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
