@@ -50,8 +50,6 @@
 ## 🌈 Fun Extras
 - 🎵 *Coding with beats*  
 - 📐 Neat code since OCD affected
-  
-![snake gif](https://github.com/Lavanya24R/Lavanya24R/blob/output/snake-dark.svg)
 
 ---
 
