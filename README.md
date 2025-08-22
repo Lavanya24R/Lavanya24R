@@ -40,7 +40,9 @@
 
 ## 🌈 Fun Extras
 - 🎵 *Coding with beats*  
-- 📐 Neat code since OCD affected
+- 📐 *Neat code and simple UI since OCD affected*
+- 💻 *Can dream Data structures in sleep too*
+- 🍔 *Junk food black hole*
 
 ---
 
