@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Highlights
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Lavanya24R&show_icons=true&theme=radical" height="180em"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Lavanya24R&show_icons=true&theme=radical" height="180em"/> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavanya24R&layout=compact&theme=radical" height="180em"/>
 </p>
 
