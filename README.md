@@ -1,14 +1,14 @@
 <!-- Title -->
 <h1 align="center">Hi there, I'm Lavanya 👋</h1>
-<h3 align="center">🚀 Developer • 🎮 Songnerd(Song Listening nerd) • 🌱 Learner</h3>
+<h3 align="center">😴 Sleep Deprived • 🎮 Songnerd(Song Listening nerd) • 🧐 Probably a coder</h3>
 
 ---
 
 ## 🌟 About Me
 - 🔭 Currently building: **Myself into a more enthusiastic person**  
 - 🌱 Learning: **Hacking & AI/ML**  
-- 💡 Interested in: **Web Dev | DS | Hacking**  
-- ⚡ Fun Fact: **My chalebility is high and sleepability is higher** 🔧  
+- 💡 Interested in: **Web Dev | DSA | Hacking**  
+- ⚡ Fun Fact: **My chalebility is high and sleepability is higher. Once i connect, i talk like i know you since a long time** 🔧  
 
 ---
 
