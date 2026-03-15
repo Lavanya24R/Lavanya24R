@@ -6,8 +6,8 @@
 
 ## 🌟 About Me
 - 🔭 Currently building: **Myself into a more enthusiastic person**  
-- 🌱 Learning: **Hacking & AI/ML**  
-- 💡 Interested in: **Web Dev | DSA | Hacking**  
+- 🌱 Learning: **How to survive**  
+- 💡 Interested in: **Web Dev | App Dev | DSA | Hacking**  
 - ⚡ Fun Fact: **My chalebility is high and sleepability is higher. Once i connect, i talk like i know you since a long time** 🔧  
 
 ---
